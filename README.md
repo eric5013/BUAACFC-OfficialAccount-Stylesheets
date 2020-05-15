@@ -24,8 +24,13 @@
 ## Markdown Here 下载地址
 
 [**Visit the website. 访问官方网站**](http://markdown-here.com/)
+
 [**Get it for Chrome. 获取 Chrome 浏览器的 Markdown Here 插件**](https://chrome.google.com/webstore/detail/elifhakcjgalahccnjkneoccemfahfoa)
+
 [**Get it for Firefox. 获取 Firefox 浏览器的 Markdown Here 插件**](https://addons.mozilla.org/en-US/firefox/addon/markdown-here/)
+
 [**Get it for Safari. 获取 Safari 浏览器的 Markdown Here 插件**](https://s3.amazonaws.com/markdown-here/markdown-here.safariextz)
+
 [**Get it for Thunderbird and Postbox.**](https://addons.mozilla.org/en-US/thunderbird/addon/markdown-here/)
+
 [**Get it for Opera. 获取 Opera 浏览器的 Markdown Here 插件**](https://addons.opera.com/en/extensions/details/markdown-here/)
